@@ -1,1 +1,2 @@
 Gitの練習をしています。
+IntelliJ IDEAを使っています。
