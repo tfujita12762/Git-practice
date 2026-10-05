@@ -1,4 +1,4 @@
-Gitの練習をしています。
+Git の練習メモ（mainで編集）
 IntelliJ IDEAを使っています。
 Gitの勉強中です。
 これはVSCodeではありません。
